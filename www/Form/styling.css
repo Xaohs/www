@@ -1,0 +1,47 @@
+body {
+	background: #d9a7c7; 
+	background: -webkit-linear-gradient(to top, #fffcdc, #d9a7c7);
+	background: linear-gradient(to top, #fffcdc, #d9a7c7);
+	background-size: cover;
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+
+}
+
+
+.main {
+	text-align: middle;
+	font-size: 32px;
+	font: arial;
+	color: #902010;
+
+}
+}
+label {
+	width: 200px;
+	float: left;
+	margin: 0 20px 0 0;
+}
+span {
+	display: block;
+	margin: 0 0 3px;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #5e99f9;
+}
+input#voorletters{
+	transition: all .5s linear;
+	width: 200px;
+	border: 1px solid #c0dbec;
+	padding: 5px;
+	background-color: #fff;
+}
+input#tussenvoegsel{
+	transition: all .5s linear;
+	width: 200px;
+	border: 1px solid #c0dbec;
+	padding: 5px;
+	background-color: #fff;
+}
+
+
